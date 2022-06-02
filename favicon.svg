@@ -1,13 +1,72 @@
-<svg width="75" height="75" xmlns="http://www.w3.org/2000/svg">
- <title>favicon</title>
-
- <g id="Layer_1">
-  <title>Layer 1</title>
-  <path id="svg_1" d="m-585.05504,-448.62306l0,0c0,-9.95601 3.07804,-18.02695 6.875,-18.02695l3.125,0l0,0l15,0l28.12499,0c1.82337,0 3.57205,1.89926 4.86136,5.27997c1.28931,3.38071 2.01364,7.96594 2.01364,12.74698l0,45.06737l0,0l0,27.04042l0,0c0,9.95601 -3.07804,18.02695 -6.875,18.02695l-28.12499,0l-19.59565,45.83834l4.59565,-45.83834l-3.125,0c-3.79696,0 -6.875,-8.07093 -6.875,-18.02695l0,0l0,-27.04042l0,0l0,-45.06737z" stroke="#000" fill="#fff"/>
-  <path id="svg_2" d="m-568.23509,-367.44276l0,0c0,-6.98214 1.69292,-12.64227 3.78125,-12.64227l1.71875,0l0,0l8.25,0l15.46874,0c1.00285,0 1.96463,1.33195 2.67375,3.70284c0.70912,2.37089 1.1075,5.5865 1.1075,8.93944l0,31.60569l0,0l0,18.96341l0,0c0,6.98214 -1.69292,12.64227 -3.78125,12.64227l-15.46874,0l-10.7776,32.14637l2.52761,-32.14637l-1.71875,0c-2.08833,0 -3.78125,-5.66014 -3.78125,-12.64227l0,0l0,-18.96341l0,0l0,-31.60569l-0.00001,-0.00001z" stroke="#000" fill="#fff"/>
-  <path id="svg_3" d="m-583.04001,-259.04618l0,0c0,-0.90509 4.82227,-1.63881 10.77083,-1.63881l4.89583,0l0,0l23.5,0l44.06248,0c2.85661,0 5.59621,0.17266 7.61614,0.48c2.01991,0.30734 3.1547,0.72418 3.1547,1.15882l0,4.09703l0,0l0,2.45822l0,0c0,0.90509 -4.82226,1.63881 -10.77083,1.63881l-44.06248,0l-30.69985,4.16712l7.19985,-4.16712l-4.89583,0c-5.94856,0 -10.77083,-0.73372 -10.77083,-1.63881l0,0l0,-2.45822l0,0l0,-4.09703l-0.00001,-0.00001z" stroke="#000" fill="#fff"/>
-  <path fill="#D2691E" d="m2.61498,10.17701l0,0c0,-4.46081 3.59104,-8.07701 8.02083,-8.07701l3.64583,0l0,0l17.5,0l32.81249,0c2.12727,0 4.16739,0.85097 5.67159,2.3657c1.50419,1.51474 2.34924,3.56915 2.34924,5.71131l0,20.19252l0,0l0,12.11551l0,0c0,4.46081 -3.59104,8.07701 -8.02083,8.07701l-32.81249,0l-22.86159,20.53796l5.36159,-20.53796l-3.64583,0c-4.42978,0 -8.02083,-3.6162 -8.02083,-8.07701l0,0l0,-12.11551l0,0l0,-20.19252z" id="svg_4" stroke="#000"/>
-  <text transform="matrix(1.50652 0 0 1 -178.79 0)" stroke="#000" fill="#000000" x="8.02224" y="38" id="svg_6" font-size="24" font-family="'Cabin'" text-anchor="start" xml:space="preserve" font-weight="bold">FX</text>
-  <text fill="#FFFFFF" x="8.54093" y="34.79514" id="svg_7" stroke-width="0" font-size="24" font-family="'Cabin'" text-anchor="start" xml:space="preserve" font-weight="bold" stroke="#000" transform="matrix(1.78291 0 0 1.25764 -2.85946 -7.07261)">FX</text>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="75"
+   height="75"
+   style=""
+   version="1.1"
+   id="svg47"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs51" />
+  <sodipodi:namedview
+     id="namedview49"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.2979727"
+     inkscape:cx="37.472376"
+     inkscape:cy="24.769876"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     showguides="false" />
+  <rect
+     id="backgroundrect"
+     width="100%"
+     height="100%"
+     x="0"
+     y="0"
+     fill="none"
+     stroke="none" />
+  <title
+     id="title37">favicon</title>
+  <g
+     id="Layer_1"
+     class="currentLayer"
+     transform="translate(-0.53128689,2.3022432)">
+    <title
+       id="title39">Layer 1</title>
+    <path
+       fill="#d2691e"
+       d="m 1.0501019,6.8452386 v 0 c 0,-4.7566451 3.8055476,-8.6126668 8.4999469,-8.6126668 H 13.41366 v 0 h 18.545346 34.772517 c 2.254342,0 4.416327,0.9074051 6.010377,2.5225901 1.594041,1.6151957 2.489572,3.8058515 2.489572,6.0900767 v 21.5316624 0 12.918998 0 c 0,4.756643 -3.805547,8.612663 -8.499949,8.612663 H 31.959006 L 7.3747108,71.988224 13.41366,49.908562 H 9.5500488 c -4.6943887,0 -8.4999469,-3.85602 -8.4999469,-8.612663 v 0 -12.918998 0 z"
+       id="svg_4"
+       stroke="#000000"
+       style="stroke-width:0.55763;stroke-dasharray:none"
+       sodipodi:nodetypes="csscccssscccsscccsscccc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:35.9332px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Bold';text-align:center;letter-spacing:0.0754524px;text-anchor:middle;fill:#000000;stroke-width:0.421025"
+       x="35.662418"
+       y="38.129234"
+       id="text841"
+       transform="scale(1.0450076,0.95693083)"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="35.700142"
+         y="38.129234"
+         style="fill:#ffffff;stroke-width:0.421025">FX</tspan></text>
+  </g>
 </svg>
