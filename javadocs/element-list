@@ -1,2 +1,4 @@
 module:FXDialogs
 com.amirali.fxdialogs
+com.amirali.fxdialogs.nodes
+com.amirali.fxdialogs.notifications
